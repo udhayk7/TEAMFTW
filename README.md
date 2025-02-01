@@ -1,6 +1,8 @@
 # nutriguard
 
-A new Flutter project.
+A new Flutter project. 
+This project is for our hackathon at Providence college of engineering
+
 
 ## Getting Started
 
